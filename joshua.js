@@ -2,3 +2,4 @@
 // sample comment
 const name = "Joshua";
 console.log(name);
+// third comment sample
